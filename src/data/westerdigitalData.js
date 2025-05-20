@@ -8,7 +8,7 @@ export const westerdigitalData = [
     {
         title: "WD Purple Pro Surveillance Hard Drive",
         description:
-            "WD Purpe Pro drives are designed for advanced AI-enabled recorders and video analytics servers. With enhanced workload rating, higher durability, and advanced features like TLER and RAID support, these drives deliver enterprise-grade storage optimized for smart video solutions and deep learning applications.",
+            "WD Purple Pro drives are designed for advanced AI-enabled recorders and video analytics servers. With enhanced workload rating, higher durability, and advanced features like TLER and RAID support, these drives deliver enterprise-grade storage optimized for smart video solutions and deep learning applications.",
         image: "/src/assets/westerdigital/wd-purple-pro-sata-hdd-main-nocap.png",
     }
 ];
